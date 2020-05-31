@@ -1,0 +1,23 @@
+{
+  "name": "mongodb-mocha",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rashedul-alam/MongoDb-Mocha.git"
+  },
+  "author": "Rashed",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rashedul-alam/MongoDb-Mocha/issues"
+  },
+  "homepage": "https://github.com/rashedul-alam/MongoDb-Mocha#readme",
+  "dependencies": {
+    "mocha": "^7.2.0",
+    "mongoose": "^5.9.16"
+  }
+}
